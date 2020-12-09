@@ -5,7 +5,7 @@
       <NuxtLink to="/about"
       >About</NuxtLink>
       <NuxtLink to="/homepage"
-      >About </NuxtLink>
+      >Homepage </NuxtLink>
     </li>
   </ul>
 </nav>
