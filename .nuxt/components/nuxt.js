@@ -9,8 +9,7 @@ export default {
   name: 'Nuxt',
   components: {
     NuxtChild,
-    NuxtError,
-    components: true
+    NuxtError
   },
   props: {
     nuxtChildKey: {
