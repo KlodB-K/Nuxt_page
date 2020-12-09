@@ -6,6 +6,12 @@
     "chunkName": "pages/about"
   },
   {
+    "name": "homepage",
+    "path": "/homepage",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\nuxt-project\\\\pages\\\\homepage.vue",
+    "chunkName": "pages/homepage"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt\\\\nuxt-project\\\\pages\\\\index.vue",

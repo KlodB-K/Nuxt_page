@@ -1,8 +1,5 @@
 <template>
     <div>
-      <LazyHeader />
-    <h1>Home page aa</h1>
-    <NuxtLink to="/about"
-      >About</NuxtLink>
+    <h1>Home page</h1>
   </div>
 </template>
